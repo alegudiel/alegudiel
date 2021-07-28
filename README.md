@@ -2,9 +2,8 @@
 
 
 
-
- - 🌱 I’m currently learning React Native
- - 📫 How to reach me: alegudiell@gmail.com
  - 😄 Pronouns: she/her 
+ - 🌱 I’m currently learning Swift
+ - 📫 You can reach me via: alegudiell@gmail.com
 
 - Portfolio: https://ale-gudiel.web.app
