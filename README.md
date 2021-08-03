@@ -8,6 +8,4 @@
 
 - Portfolio: https://ale-gudiel.web.app
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alegudiel&count_private=true)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alegudiel&show_icons=true&theme=radical)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alegudiel&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alegudiell&count_private=true&show_icons=true&theme=radical)
