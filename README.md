@@ -3,8 +3,7 @@
 
 
  - 😄 Pronouns: she/her 
- - 🌱 Currently learning Swift
- - 📫 You can reach me via: [![Linkedin Badge](http://www.copyblogger.com/linkedin/)](https://www.linkedin.com/in/alejandra-gudiel-361995178/)
+ - 📫 You can reach me via: alegudiell@gmail.com
 
 - Portfolio: https://ale-gudiel.web.app
 
