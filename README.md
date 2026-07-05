@@ -30,7 +30,7 @@ I'm moving into **HCI and Interaction Design**, starting an MSc in Human-Compute
 
 - Designing conversational and interactive systems people can actually trust
 - Grounding design decisions in real UX research, not just intuition -> every project above ships with a case study
-- Coming from a mixed background: business development in game studios (kupara Games, Robot Teddy), student leadership (President of UVG's Engineering Student Association), and now data scientist.
+- Coming from a mixed background: business development in game studios (Akupara Games, Robot Teddy), student leadership (President of UVG's Engineering Student Association), and now data scientist.
 
 ---
 
@@ -51,4 +51,4 @@ I'm moving into **HCI and Interaction Design**, starting an MSc in Human-Compute
 ### 📫 Reach me
 
 - ✉️ alegudielgarcia@gmail.com
-- 🌐 Portfolio: [ale-gudiel.web.app](https://ale-gudiel.web.app) *(refresh in progress 👀)*
+- 🌐 Portfolio: [link here]([https://ale-gudiel.web.app](https://alegudiel.github.io/AleGudiel_Portfolio/))
