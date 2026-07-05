@@ -51,4 +51,4 @@ I'm moving into **HCI and Interaction Design**, starting an MSc in Human-Compute
 ### 📫 Reach me
 
 - ✉️ alegudielgarcia@gmail.com
-- 🌐 Portfolio: [click here]([https://alegudiel.github.io/AleGudiel_Portfolio/])
+- 🌐 Portfolio: [click here](https://alegudiel.github.io/AleGudiel_Portfolio/)
